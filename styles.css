@@ -1,0 +1,35 @@
+* {
+    font-size: 1em
+    font-familiy: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width: 200px;
+    height: 300px;
+    
+}
+.center{
+    text-align: center;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+.box{
+    border: 2px solid black ;
+    margin: 20px;
+    
+}   
+.columns{
+    grid-template-columns: 2px;
+}
+#capitalized{
+    text-transform: capitalize;
+}
+.bar{
+    border-color: black;
+    border-radius: 5px;
+}
+.color{
+    background-color: rgb(185, 156, 204);
+}
